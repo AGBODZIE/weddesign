@@ -1,2 +1,0 @@
-# weddesign
-my repository
